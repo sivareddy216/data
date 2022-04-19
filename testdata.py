@@ -1,6 +1,6 @@
-def square(a):
-    return a**2
+def power(a, b):
+    return a**b
 
-print(square(4))
+print(power(4, 3))
 
 
